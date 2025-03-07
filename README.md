@@ -3,8 +3,8 @@ Welcome to Business Insights 360 – your gateway to data-driven success!
 
 This robust Power BI dashboard for AtliQ Hardware seamlessly integrates key performance metrics from finance, sales, marketing, supply chain, and executive operations. By transforming complex data into actionable insights, it empowers stakeholders to make informed decisions and drive strategic growth.
 
-Live Dashboard
-Explore the live dashboard here
+## Live Dashboard
+Explore the live dashboard here: https://app.powerbi.com/links/2APMXsA4CI?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare
 
 ## 📌 Features  
 
